@@ -1,7 +1,7 @@
 # Prints menu options to user
 def print_menu():
     print('Menu')
-    print('-' * 12)
+    print('-' * 13)
     print('1. Encode')
     print('2. Decode')
     print('3. Quit\n')
